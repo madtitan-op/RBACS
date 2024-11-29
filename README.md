@@ -24,8 +24,8 @@ Key Features:
 
 #### **2. Clone the Repository**
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/madtitan-op/RBACS.git
+cd RBACS
 ```
 
 #### **3. Configure the Application**
